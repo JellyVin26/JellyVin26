@@ -114,15 +114,15 @@ Building AI-powered applications using
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JellyVin26&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JellyVin26&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyVin26&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -130,7 +130,7 @@ Building AI-powered applications using
 
 # 📈 Contribution Graph
 
-[![JellyVin26's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)]()
+[![JellyVin26's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JellyVin26&theme=tokyo-night)]()
 
 ---
 
@@ -138,14 +138,13 @@ Building AI-powered applications using
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/JellyVin26/JellyVin26/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
 # 📫 Let's Connect
-
 
 LinkedIn: www.linkedin.com/in/williammelvinsukamto
 
