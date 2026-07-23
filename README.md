@@ -130,7 +130,7 @@ Building AI-powered applications using
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JellyVin26/JellyVin26/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://snk-generator.vercel.app/api/snake?username=JellyVin26&theme=dark" alt="Snake Animation"/>
 </p>
 
 ---
