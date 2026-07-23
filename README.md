@@ -113,33 +113,24 @@ Building AI-powered applications using
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JellyVin26&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JellyVin26&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellyVin26&layout=compact&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JellyVin26&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JellyVin26&theme=tokyonight&hide_border=false" alt="Streak Stats"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
-[![JellyVin26's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JellyVin26&theme=tokyo-night)]()
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JellyVin26&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/JellyVin26/JellyVin26/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/JellyVin26/JellyVin26/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
