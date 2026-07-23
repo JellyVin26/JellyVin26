@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm William Melvin
+# 👋 Hi, I'm Melvin
 
-### AI Engineer • Full Stack Developer • Computer Science @ Taylor's University
+### AI Engineer • Full Stack Developer • Computer Science Student
 
 Building products that combine **Artificial Intelligence**, **Data**, and **Modern Web Technologies** to solve real-world problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/williammelvinsukamto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/williammelvinsukamto)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:melvin020606@gmail.com)
 
 </div>
@@ -15,9 +15,7 @@ Building products that combine **Artificial Intelligence**, **Data**, and **Mode
 
 # 🚀 About Me
 
-🎓 Computer Science student specializing in AI
-
-📈 Building AI-powered financial analysis applications
+🎓 Computer Science student
 
 🤖 Interested in Machine Learning, LLMs, and AI Agents
 
@@ -149,8 +147,8 @@ Building AI-powered applications using
 # 📫 Let's Connect
 
 
-LinkedIn
+LinkedIn: www.linkedin.com/in/williammelvinsukamto
 
-Email
+Email: melvin020606@gmail.com
 
 Always open to collaborating on interesting AI and software engineering projects.
