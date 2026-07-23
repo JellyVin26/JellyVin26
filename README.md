@@ -102,7 +102,7 @@ Building AI-powered applications using
 
 ### Database
 
-![MySQL](https://skillicons.dev/icons?i=mysql,postgres,firebase)
+![MySQL](https://skillicons.dev/icons?i=mysql,postgres)
 
 ### DevOps
 
