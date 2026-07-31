@@ -128,10 +128,14 @@ Building AI-powered applications using
 
 ---
 
-# 🐍 Contribution Snake
+# 🎮 Contribution Pacman
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JellyVin26/JellyVin26/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JellyVin26/JellyVin26/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JellyVin26/JellyVin26/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JellyVin26/JellyVin26/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </p>
 ---
 
