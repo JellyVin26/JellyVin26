@@ -114,8 +114,8 @@ Building AI-powered applications using
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JellyVin26&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JellyVin26&theme=radical&hide_border=false" alt="Streak Stats"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JellyVin26&show_icons=true&theme=chartreuse-dark&hide_border=false" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JellyVin26&theme=chartreuse-dark&hide_border=false" alt="Streak Stats"/>
 </p>
 
 ---
@@ -123,7 +123,7 @@ Building AI-powered applications using
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JellyVin26&theme=radical&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JellyVin26&theme=chartreuse-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
