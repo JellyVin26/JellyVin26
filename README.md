@@ -8,6 +8,7 @@ Building products that combine **Artificial Intelligence**, **Data**, and **Mode
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/williammelvinsukamto)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:melvin020606@gmail.com)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jellyvin)
 
 </div>
 
@@ -106,15 +107,15 @@ Building AI-powered applications using
 
 ### DevOps
 
-![Docker](https://skillicons.dev/icons?i=docker,git,github,vercel)
+![DevOps](https://skillicons.dev/icons?i=git,github,vercel)
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JellyVin26&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JellyVin26&theme=tokyonight&hide_border=false" alt="Streak Stats"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JellyVin26&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JellyVin26&theme=radical&hide_border=false" alt="Streak Stats"/>
 </p>
 
 ---
@@ -122,7 +123,7 @@ Building AI-powered applications using
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JellyVin26&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JellyVin26&theme=radical&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
