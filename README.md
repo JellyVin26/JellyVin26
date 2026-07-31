@@ -130,6 +130,7 @@ Educational website that teaches beginners how to play Pokémon Trading Card Gam
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JellyVin26/JellyVin26/output/pacman-contribution-graph-dark.svg">
   </picture>
 </p>
+
 ---
 
 # 📫 Let's Connect
