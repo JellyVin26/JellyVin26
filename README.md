@@ -8,7 +8,6 @@ Building products that combine **Artificial Intelligence**, **Data**, and **Mode
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/williammelvinsukamto)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:melvin020606@gmail.com)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jellyvin)
 
 </div>
 
@@ -44,16 +43,20 @@ Python • FastAPI • React • TypeScript • Machine Learning
 
 ---
 
-## 🛍 Justitip
+## ⚽ FM Analyzer (FM26)
 
-Cross-border shopping platform that helps personal shoppers manage customer requests.
+Lightning-fast web application for Football Manager 2026 that extracts live scouting data to sort players by tactical role suitability.
 
 ### Features
 
-- Customer order management
-- Currency conversion
-- Profit tracking
-- Seller dashboard
+- Live Sync Engine from active save
+- Advanced Role Scoring for all 26 FM roles
+- Schwartzian Transform Sorting for 100k+ players
+- 1-Click Standalone Desktop App
+
+**Tech**
+
+React • Express • Node.js
 
 ---
 
@@ -69,16 +72,6 @@ Educational website that teaches beginners how to play Pokémon Trading Card Gam
 
 ---
 
-## 🤖 Current Project
-
-Building AI-powered applications using
-
-- LLMs
-- RAG
-- AI Agents
-- Financial AI
-
----
 
 # 🛠 Tech Stack
 
@@ -146,3 +139,6 @@ LinkedIn: www.linkedin.com/in/williammelvinsukamto
 Email: melvin020606@gmail.com
 
 Always open to collaborating on interesting AI and software engineering projects.
+
+<br>
+<a href='https://ko-fi.com/jellyvin' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
